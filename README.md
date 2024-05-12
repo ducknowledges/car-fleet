@@ -1,2 +1,4 @@
-# car-fleet
-Car Fleet: Vaadin + Spring Boot demo project
+# Car Fleet
+
+## Description
+Vaadin + Spring Boot demo project
